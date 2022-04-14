@@ -1,0 +1,5 @@
+2022-04-14 09:54:16,808 DEBUG    This is a debug msg
+2022-04-14 09:54:16,809 INFO     This is a info msg
+2022-04-14 09:54:16,809 WARNING  This is a warning msg
+2022-04-14 09:54:16,809 ERROR    This is a error msg
+2022-04-14 09:54:16,809 CRITICAL This is a critical msg

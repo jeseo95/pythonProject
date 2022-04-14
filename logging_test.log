@@ -1,0 +1,7 @@
+2022-04-14 09:59:12,100 CRITICAL This is a critical msg
+2022-04-14 09:59:12,100 CRITICAL Exception occured: 
+Traceback (most recent call last):
+  File ".\logging_test.py", line 23, in <module>
+    mysum = a / b
+ZeroDivisionError: division by zero
+2022-04-14 09:59:12,101 CRITICAL There was an error with user: brad
