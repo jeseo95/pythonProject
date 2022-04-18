@@ -1,9 +1,9 @@
-
 import logging
 
 logging.basicConfig(filename='employee.log'
                     , level=logging.INFO
                     , format='%(levelname)s:%(message)s')
+
 
 class Employee:
 
@@ -25,4 +25,3 @@ class Employee:
 emp_1 = Employee('John', 'Smith')
 emp_2 = Employee('Corey', 'Schafer')
 emp_3 = Employee('Jane', 'Doe')
-
